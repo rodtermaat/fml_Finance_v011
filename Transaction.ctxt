@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=id\ date\ category\ name\ amount
+comment1.target=Transaction(int,\ java.util.Date,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.util.Date\ getDate()
+comment3.params=
+comment3.target=java.lang.String\ getCategory()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getAmount()
+comment6.params=
+comment6.target=int\ getID()
+numComments=7
